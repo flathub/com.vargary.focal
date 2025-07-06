@@ -27,5 +27,5 @@ modules:
       - type: archive
         filename: focal.tar.gz
         only-arches: [x86_64]
-        url: https://focal.vargary.com/downloads/linux/x64/focal-1.1.0.tar.gz
-        sha256: badbf56e73b70bca9d6ee89a4c430a5649f94e0240cfcfb3f9131a1573b260ad
+        url: https://focal.vargary.com/downloads/linux/x64/focal-1.1.2.tar.gz
+        sha256: 12a4c46b849ae459b120f04504ec0864370c7c91a9ad333e7d5b5f93339baa0e
