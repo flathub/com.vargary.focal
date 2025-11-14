@@ -28,4 +28,4 @@ modules:
         dest-filename: focal.tar.gz
         only-arches: [x86_64]
         url: https://focal.vargary.com/downloads/linux/x64/focal-2.0.0.tar.gz
-        sha256: 564c8e0231a4f28021e8e42bf32717b2bcac77cd2d8ec3cd972b57d8749ea7e7
+        sha256: 0bfbbecf63152be322f8d0a6f4bbadbcb8fed7cf56dcbbb96c093a555db2c389
