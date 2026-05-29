@@ -1,6 +1,6 @@
 app-id: com.vargary.focal
 runtime: org.freedesktop.Platform
-runtime-version: "24.08"
+runtime-version: "25.08"
 sdk: org.freedesktop.Sdk
 command: focal
 tags:
@@ -27,5 +27,5 @@ modules:
       - type: archive
         dest-filename: focal.tar.gz
         only-arches: [x86_64]
-        url: https://focal.vargary.com/downloads/linux/x64/focal-2.4.0.tar.gz
-        sha256: f3a105610769df46f54041a56d9bca6b6fd7a89fedcfd4e68b1d698c5aabe0b3
+        url: https://focal.vargary.com/downloads/linux/x64/focal-2.4.1.tar.gz
+        sha256: e17702a540e453c71878e2c7513c0a1d85daa3bd32cf3843b3aba08a0265fccb
