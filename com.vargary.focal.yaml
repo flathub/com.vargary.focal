@@ -11,6 +11,7 @@ finish-args:
   - --socket=fallback-x11
   - --socket=wayland
   - --device=dri
+  - --talk-name=org.freedesktop.Notifications
 modules:
   - name: focal
     buildsystem: simple
@@ -27,5 +28,5 @@ modules:
       - type: archive
         dest-filename: focal.tar.gz
         only-arches: [x86_64]
-        url: https://focal.vargary.com/downloads/linux/x64/focal-2.6.2.tar.gz
-        sha256: c73edc915b36b6ebef4d764f15b7958907a5667c60947eb9f8790ebcc59eb271
+        url: https://focal.vargary.com/downloads/linux/x64/focal-2.7.0.tar.gz
+        sha256: 534c49c4d69df6d2eb2366c644d8cc5a3be9dd1468112abd3f18acc621017dd5
