@@ -28,5 +28,5 @@ modules:
       - type: archive
         dest-filename: focal.tar.gz
         only-arches: [x86_64]
-        url: https://focal.vargary.com/downloads/linux/x64/focal-2.7.2.tar.gz
-        sha256: 03707369764210c9a5fdaf6402ed43e98d1777f0948bbc5c274ea543dbb45c32
+        url: https://focal.vargary.com/downloads/linux/x64/focal-2.7.3.tar.gz
+        sha256: edc4bd909bd671badc54baba0bc55f3554428d273c49765ed7bb263d1c196f6c
